@@ -24,13 +24,13 @@
 - From the Cell Menu choose Run All
 
 ### The Fun Part
-If you are a Disney fan like me, you will want to know the burning question.  When is the best time to visit Disney World in Florida.  More specifically, when is the best time of the year, the best day of the week and the best parks to visit each day.
+If you are a Disney fan like me, you will want to know the burning question.  When is the best time to visit Disney World in Florida.  More specifically... What is the best time of year to visit Disney World? Based on 2017 data, what rides have the least wait time?  Does adding more ride capacity reduce the wait times?
 
 This project contains wait time data for 9 attractions at Walt Disney World.  The Jupyter notebook will perform the following:
 - Create a sqlite database
-- Create tables to load data into
+- Create tables to load wait time data
 - Loop over each of the 9 CSV files provided by Touring Plans and import the data
 - Analyze the data import itself
-- Analyze specific questions about the best time of year, best day of the week to visit
+- Analyze specific questions about wait times
 
 **Please refer to more specific information and details in the notebook**
