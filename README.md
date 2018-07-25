@@ -1,6 +1,6 @@
 # Code Louisville Python Data Science (May-July 2018)
 ## Jeff Kempster
-## jeffkempster@gmail.com
+#### jeffkempster@gmail.com
 
 ### Installing the Project
 - git clone https://github.com/jeffkempster/codelouisville.git 
